@@ -1,0 +1,16 @@
+{
+  "name": "repositorio",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "proyectouno.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paola shinki.026@gmail.com",
+  "license": "ISC"
+}
